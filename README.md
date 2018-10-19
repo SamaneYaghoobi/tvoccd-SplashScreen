@@ -1,2 +1,2 @@
 # tvoccd-SplashScreen
-Just a splash screen for tvoccd android app
+Just a animated splash screen for tvoccd android app
